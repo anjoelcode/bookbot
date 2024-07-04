@@ -1,2 +1,12 @@
 secure/
 guilty_pleasures.md
+*~
+.*~
+!.gitignore
+!.git
+Downloads
+go/
+snap/
+webflyx-local/
+webflyx/
+worldbanc/
