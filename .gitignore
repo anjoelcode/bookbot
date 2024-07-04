@@ -10,3 +10,17 @@ snap/
 webflyx-local/
 webflyx/
 worldbanc/
+.bash_history
+.bash_logout
+.bashrc
+.bootdev.yaml
+.cache/
+.config/
+.gitconfig
+.lesshst
+.local/
+.motd_shown
+.profile
+.ssh/
+.sudo_as_admin_successful
+.vscode-server/
